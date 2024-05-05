@@ -1,0 +1,69 @@
+
+.container-fluid {
+  height: 100px;
+}
+
+
+body {
+  background-color: #95bed8;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+}
+
+
+
+.header {
+  margin: auto;
+  padding: 0px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.button {
+  width: 100px;
+  height: 35px;
+  margin: 10px 
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  text-align: center;
+  font-size: 30px;
+  font-family: rubik dirt;
+  text-shadow: hsla(0, 0%, 3%, 0.317);
+  border-radius: 55px solid #f6f5;
+}
+
+.a {
+  
+  font-size: 2Rem;
+  border: 20px;
+  
+}
+
+.carousel {
+  margin: auto;
+  padding-bottom: 30px;
+  width: 1000px;
+  height: 750px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.d-block {
+    border-radius: 65px;
+}
+
+
+.controls {
+  width: 150px;
+  padding: 5px;
+  opacity: 20%;
+}
+
+
+
