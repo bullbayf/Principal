@@ -344,16 +344,6 @@
   }
 }
 
-@media screen and (max-width: 440px) {
-  .navbar-brand {
-    align-items: center;
-    justify-content: center;
-    width: 100px;
-    margin: 0px;
-  }
-}
-
-
 
 
 
